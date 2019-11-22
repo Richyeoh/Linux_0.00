@@ -1,0 +1,10 @@
+*.bin
+*.o
+*.swp
+*.dis
+*.elf
+*.sym
+*.img
+*.out
+*.bxrc
+.DS_STORE
