@@ -60,5 +60,5 @@ gdt_48:
 	dw 0x7ff
 	dw 0x7c00+gdt,0
 
-	times 510-($-$$) db 0
-	dw 0xaa55
+times 510-($-$$) db 0
+dw 0xaa55
